@@ -1,3 +1,3 @@
-# bowlingInMIPS
+# Projects from CISC 3593 Computer Organization 
 
-MIPS implementation of bowling rules.
+- bowlingInMIPS.asm MIPS implementation of bowling rules.
